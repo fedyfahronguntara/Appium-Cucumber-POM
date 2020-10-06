@@ -9,6 +9,9 @@
 
 # Running the test Suite
 run the following command to start the execution
-1. open cmd
-2. go to the folder
+1. Open command prompt.
+2. Set MavenProject folder as working directory In command prompt.
 3. run `mvn test`
+
+# Report using cluecumber-report-plugin
+report results can be seen in the file target / generate-report / index.html
