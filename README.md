@@ -1,7 +1,7 @@
 # Appium-Cucumber-POM
 
 # Environment
-1. Emulator API 27 from android studio
+1. Emulator API 28 from android studio
 2. check deviceName and put on Setup.java
 3. check udid emulator using `adb devices` and put on Setup.java
 
